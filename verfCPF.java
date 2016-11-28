@@ -13,10 +13,10 @@ import javax.swing.JOptionPane;
  */
 public class verfCPF {
     private String strCPF, strCPFVerf;
-    private int cpf[];
+    
     //costrutor da classe
     public verfCPF() {
-        cpf = new int[11];
+        
         
     }
     
